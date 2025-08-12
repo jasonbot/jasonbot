@@ -1,5 +1,6 @@
 I'm very special! Here is how I am not like everyone else!
 
+- [X] White dude
 - [X] Working in tech
 - [x] In or near San Francisco
 - [x] Software Engineer
